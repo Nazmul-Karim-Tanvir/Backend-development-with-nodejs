@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "change-case": "^5.4.4",
+    "lodash": "^4.17.21",
+    "upper-case": "^3.0.0"
+  }
+}
