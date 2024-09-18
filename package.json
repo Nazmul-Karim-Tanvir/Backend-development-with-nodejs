@@ -3,6 +3,7 @@
     "change-case": "^5.4.4",
     "formidable": "^3.5.1",
     "lodash": "^4.17.21",
+    "nodemailer": "^6.9.15",
     "upper-case": "^3.0.0"
   }
 }
